@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Sourav Banerjee</h1>
 
 <p align="center">
-  <a href="">Portfolio</a> •
+  <a href="https://sou2002.github.io">Portfolio</a> •
   <a href="https://www.linkedin.com/in/sourav-banerjee-07cse/">LinkedIn</a> •
   <a href="https://x.com/tw_sou2002">X</a> •
   <a href="https://huggingface.co/sou2002">Hugging Face</a> •
@@ -11,7 +11,7 @@
 ---
 I'm a Machine Learning Engineer. I love to learn new concepts, and my goal is to contribute to the field of AI with my knowledge. Currently, I'm deepening my knowledge and writing them.
 
-To know more about me visit my [Portfolio]().
+To know more about me visit my [Portfolio](https://sou2002.github.io).
 
 ---
 
