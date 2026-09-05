@@ -11,7 +11,7 @@
 ---
 I'm an Artificial Intelligence Engineer. I love to learn new concepts, and my goal is to contribute to the field of AI. Currently, I'm deepening my knowledge and writing about what I learn along the way.
 
-To know more about me visit my [Portfolio](https://sou2002.github.io).
+To know more about me, visit my [Portfolio](https://sou2002.github.io).
 
 ---
 
